@@ -1,0 +1,1 @@
+myRepeat value = cycle [value]

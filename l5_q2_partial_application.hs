@@ -1,0 +1,1 @@
+binaryPartialApplication fn a = (\b -> fn a b)
